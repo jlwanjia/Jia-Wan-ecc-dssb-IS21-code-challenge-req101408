@@ -45,14 +45,14 @@ npm install axios
 ## Running the project
 You will now have two applications to run, the server, and the client.
 
-Open a terminal, navigate to your bc-app-tracker folder and run:
+Open a terminal, navigate to Jia-Wan-ecc-dssb-IS21-code-challenge-req101408 folder and run:
 
 ```
 node server.js
 ```
 Your server should now be running on http://localhost:3000.
 
-Open a new terminal, navigate to the client folder inside your bc-app-tracker folder and run:
+Open a new terminal, navigate to the client folder inside Jia-Wan-ecc-dssb-IS21-code-challenge-req101408 folder and run:
 ```
 npm start
 ```
