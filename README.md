@@ -6,24 +6,21 @@ Before starting, ensure you have Node.js and npm installed on your system. You c
 
 If you don't have Node.js and npm installed, you can download them from the [Node.js website](https://nodejs.org/en/download/). Download the latest LTS version, as this is the most stable and commonly used version. Once downloaded, run the installer and follow the instructions.
 
+You should also have Git installed in your system to clone this repository. Verify this by running `git --version` in your terminal.
+
 ## Setup
-### Backend
-Create a new folder on your local system and navigate into it. The method to do this will depend on your operating system:
+First, clone this repository to your local system using Git. You can do this by running the following command in your terminal:
 
-#### On Unix-like systems (like Linux or MacOS), you can use:
 ```bash
-mkdir bc-app-tracker
-
-cd bc-app-tracker
+git clone https://github.com/jlwanjia/Jia-Wan-ecc-dssb-IS21-code-challenge-req101408.git
+```
+### Backend
+After cloning the repository, navigate into the directory by running:
 
 ```
-#### On Windows, you can use the File Explorer to manually create a new folder, or use the Command Prompt:
+cd Jia-Wan-ecc-dssb-IS21-code-challenge-req101408
 ```
-md bc-app-tracker
 
-cd bc-app-tracker
-
-```
 
 Initialize a new Node.js application:
 ```
