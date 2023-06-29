@@ -4,9 +4,11 @@ This is a full-stack web application for tracking product data. The backend is b
 ## Prerequisites
 Before starting, ensure you have Node.js and npm installed on your system. You can verify this by running `node -v` and `npm -v` in your terminal.
 
-If you don't have Node.js and npm installed, you can download them from the [Node.js website](https://nodejs.org/en/download/). Download the latest LTS version, as this is the most stable and commonly used version. Once downloaded, run the installer and follow the instructions.
+If you don't have Node.js and npm installed, you can download them from the [Node.js website](https://nodejs.org/en/download/). Download the latest LTS version, as this is the most stable and commonly used version. Once downloaded, run the installer and follow the instructions. 
 
 You should also have Git installed in your system to clone this repository. Verify this by running `git --version` in your terminal.
+
+After installation of Node and Git, Please make sure that they have been added to the environment variables.
 
 ## Setup
 First, clone this repository to your local system using Git. You can do this by running the following command in your terminal:
